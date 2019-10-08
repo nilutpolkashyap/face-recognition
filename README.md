@@ -15,11 +15,18 @@ Face Recognition system made for 2nd semester B.tech Python project.
 
 Face Recognition (Main Folder)
     |------>
+    
             1 DATA.yml (contains face data from collected images)
+            
             2 Data (Sub-folder for storing image database)
+            
             3 haarcascade_frontalface_default.xml (contains data needed to train model)
+            
             4 Collect.py 
+            
             5 Train.py
+            
             6 Testing.py
+          
           
  
