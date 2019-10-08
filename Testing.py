@@ -27,7 +27,7 @@ while True:
 			if ID == 2860:
 				ID = "Hey its Nilutpol"
 			elif ID == 2:
-				ID = "Hey its Dr. Pooja Mam"
+				ID = "Hey its someone_else"
 			else:
 				ID = "Authentication error"	
 		cv2.putText(b,str(ID),(x+5,y+h-7),font,1,(0,0,255),3)
